@@ -1,4 +1,3 @@
-
 <h2> Welcome Geeks! I'm Suraj.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -14,7 +13,6 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=#F4F006)
-  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -22,7 +20,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -39,7 +36,7 @@
 - ⌘ &nbsp;
   ![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)
   ![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat&logo=codechef)
-  
+
 <br/>
 
 <a href="https://github.com/surazjaiswal">
@@ -47,13 +44,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surazjaiswal&theme=blue-green&layout=compact" />
 </a>
 
+<br>
+
+<!-- <a href="https://github.com/surazjaiswal/Firebase-Video-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surazjaiswal&repo=Firebase-Video-App&theme=blue-green" />
+</a> -->
+
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surazjaiswal)](https://www.linkedin.com/in/surazjaiswal) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surazjaiswal)](https://www.linkedin.com/in/surazjaiswal)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=Gmail&link=mailto:write2suraz@gmail.com)](mailto:write2suraz@gmail.com)
 
-
 Made with 💙 by [surazjaiswal](https://github.com/surazjaiswal)
-
-
