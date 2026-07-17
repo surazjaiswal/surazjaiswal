@@ -1,61 +1,60 @@
-<h2> Welcome Geeks! I'm Suraj.</h2>
+# Hi there 👋, I'm Suraj Jaiswal
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 align="center">Android Engineer • Kotlin Developer</h3>
 
-- 🎓 &nbsp; Pursuing Computer Science and Engineering at IIIT Naya Raipur (Batch-2023).
-- 🧐 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working on Full Stack Development.
-- ✍️ &nbsp; Learning more about Web Development, Android Development and Blockchain.
+<p align="center">
+Building Android applications with modern architecture, scalable solutions, and AI-powered experiences.
+</p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/surazjaiswal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:write2suraz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=#F4F006)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio&logoColor=#91FB97)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Eclipse](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-- {...}  &nbsp;
-  ![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)
-  ![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat&logo=codechef)
+## 👨‍💻 About Me
 
-<br/>
+* 💼 Software Development Engineer (Android)
+* 📱 3+ years of experience in Android & Mobile Development
+* 🎓 B.Tech in Computer Science & Engineering, IIIT Naya Raipur
+* 🌱 Currently exploring Kotlin Multiplatform, AI integrations, and System Design
+* 💡 Interested in building reliable, maintainable, and user-focused applications
 
-<a href="https://github.com/surazjaiswal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surazjaiswal&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surazjaiswal&theme=blue-green&layout=compact" />
-</a>
+## 🛠 Tech Stack
 
-<br>
+| Category       | Technologies                                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**  | Kotlin • Java • Swift • Python • JavaScript • C++                                                                                                      |
+| **Android**    | Android SDK • XML • MVVM • Clean Architecture • Hilt • Coroutines • Flow • Room • Navigation • WorkManager • Paging 3 • DataStore • Media3 • ExoPlayer |
+| **Networking** | Retrofit • OkHttp • REST APIs • GraphQL                                                                                                                |
+| **Cloud**      | Firebase • Firestore • Crashlytics • Analytics • FCM                                                                                                   |
+| **AI**         | OpenAI • Google Gemini • Vosk • LLM Integration                                                                                                        |
+| **Databases**  | Room • SQLite • MySQL • MongoDB                                                                                                                        |
+| **Web**        | HTML • CSS • React • Node.js • Bootstrap                                                                                                               |
+| **Tools**      | Android Studio • IntelliJ IDEA • Xcode • VS Code • Git • GitHub • Postman • Figma • Jira                                                               |
+| **CI/CD**      | Gradle • GitHub Actions • Play Console • Firebase App Distribution                                                                                     |
 
-<!-- <a href="https://github.com/surazjaiswal/Firebase-Video-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surazjaiswal&repo=Firebase-Video-App&theme=blue-green" />
-</a> -->
+## 📊 GitHub Stats
 
-<br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=surazjaiswal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surazjaiswal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surazjaiswal)](https://www.linkedin.com/in/surazjaiswal)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-333333?style=flat-square&logo=Gmail&link=mailto:write2suraz@gmail.com)](mailto:write2suraz@gmail.com)
+## 🎯 Currently Learning
 
-Made with 💙 by [surazjaiswal](https://github.com/surazjaiswal)
+| Focus Area       | Topics                                          |
+| ---------------- | ----------------------------------------------- |
+| **Mobile**       | Kotlin Multiplatform • Compose Multiplatform    |
+| **Architecture** | Mobile System Design • Performance Optimization |
+| **AI**           | AI Agents • On-device AI • LLM Applications     |
+
+## 📫 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/surazjaiswal">LinkedIn</a> •
+<a href="mailto:write2suraz@gmail.com">Email</a>
+</p>
